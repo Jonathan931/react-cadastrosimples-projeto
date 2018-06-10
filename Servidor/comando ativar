@@ -1,0 +1,1 @@
+java -Dspring.datasource.password=MINHASENHA -jar cdcreact-1.0.0-SNAPSHOT.jar
